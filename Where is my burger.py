@@ -26,4 +26,3 @@ def show_books():
 def show_stats():
     print("Showing:")
 print(books)
-01010010101001010 0100100
